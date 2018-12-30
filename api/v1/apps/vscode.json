@@ -1,0 +1,160 @@
+{
+  "name": "vscode",
+  "label": "Visual Studio Code",
+  "desc": "a source code editor developed by Microsoft for Windows, Linux and macOS.",
+  "license": "mit",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "vscode-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://code.visualstudio.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\Code\\*",
+      "to": "data\\appdata\\Code"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.30.1",
+      "release": "15",
+      "date": "2018/12/18",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.30.0",
+      "release": "14",
+      "date": "2018/12/13",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.29.1",
+      "release": "13",
+      "date": "2018/11/16",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.29.0",
+      "release": "12",
+      "date": "2018/11/12",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.28.2",
+      "release": "11",
+      "date": "2018/10/18",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.28.1",
+      "release": "10",
+      "date": "2018/10/12",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.28.0",
+      "release": "9",
+      "date": "2018/10/08",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.27.2",
+      "release": "8",
+      "date": "2018/09/14",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.27.1",
+      "release": "7",
+      "date": "2018/09/07",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.27.0",
+      "release": "6",
+      "date": "2018/09/06",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.26.1",
+      "release": "5",
+      "date": "2018/08/19",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.26.0",
+      "release": "4",
+      "date": "2018/08/15",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.24.1",
+      "release": "3",
+      "date": "2018/06/21",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.24.0",
+      "release": "2",
+      "date": "2018/06/06",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.23.1",
+      "release": "1",
+      "date": "2018/05/30",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

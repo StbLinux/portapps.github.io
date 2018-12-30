@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Visual Studio Code portable releases</title>
+    <description></description>
+    <link>https://portapps.github.io/app/vscode-portable/</link>
+    <atom:link href="https://portapps.github.io/app/vscode-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>vscode-portable-win32-1.30.1-15-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 18 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.30.1-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.30.1-15-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.30.1-15-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 18 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.30.1-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.30.1-15-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.30.1-15.7z</title>
+    <description></description>
+    <pubDate>Tue, 18 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.30.1-15.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.30.1-15.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.30.1-15.7z</title>
+    <description></description>
+    <pubDate>Tue, 18 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.30.1-15.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.30.1-15.7z</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.30.0-14-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 13 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.30.0-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.30.0-14-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.30.0-14-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 13 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.30.0-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.30.0-14-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.30.0-14.7z</title>
+    <description></description>
+    <pubDate>Thu, 13 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.30.0-14.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.30.0-14.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.30.0-14.7z</title>
+    <description></description>
+    <pubDate>Thu, 13 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.30.0-14.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.30.0-14.7z</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.29.1-13-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.29.1-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.29.1-13-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.29.1-13-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.29.1-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.29.1-13-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.29.1-13.7z</title>
+    <description></description>
+    <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.29.1-13.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.29.1-13.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.29.1-13.7z</title>
+    <description></description>
+    <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.29.1-13.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.29.1-13.7z</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.29.0-12-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 12 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.29.0-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.29.0-12-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.29.0-12-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 12 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.29.0-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.29.0-12-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.29.0-12.7z</title>
+    <description></description>
+    <pubDate>Mon, 12 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.29.0-12.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.29.0-12.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.29.0-12.7z</title>
+    <description></description>
+    <pubDate>Mon, 12 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.29.0-12.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.29.0-12.7z</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.28.2-11-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 18 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.28.2-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.28.2-11-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.28.2-11-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 18 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.28.2-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.28.2-11-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.28.2-11.7z</title>
+    <description></description>
+    <pubDate>Thu, 18 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.28.2-11.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.28.2-11.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.28.2-11.7z</title>
+    <description></description>
+    <pubDate>Thu, 18 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.28.2-11.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.28.2-11.7z</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.28.1-10-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 12 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.28.1-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.28.1-10-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.28.1-10-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 12 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.28.1-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.28.1-10-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.28.1-10.7z</title>
+    <description></description>
+    <pubDate>Fri, 12 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.28.1-10.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.28.1-10.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.28.1-10.7z</title>
+    <description></description>
+    <pubDate>Fri, 12 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.28.1-10.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.28.1-10.7z</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.28.0-9-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 08 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.28.0-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.28.0-9-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.28.0-9-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 08 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.28.0-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.28.0-9-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.28.0-9.7z</title>
+    <description></description>
+    <pubDate>Mon, 08 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.28.0-9.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.28.0-9.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.28.0-9.7z</title>
+    <description></description>
+    <pubDate>Mon, 08 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.28.0-9.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.28.0-9.7z</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.27.2-8-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 14 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.27.2-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.27.2-8-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.27.2-8-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 14 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.27.2-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.27.2-8-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.27.2-8.7z</title>
+    <description></description>
+    <pubDate>Fri, 14 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.27.2-8.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.27.2-8.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.27.2-8.7z</title>
+    <description></description>
+    <pubDate>Fri, 14 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.27.2-8.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.27.2-8.7z</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.27.1-7-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 07 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.27.1-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.27.1-7-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.27.1-7-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 07 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.27.1-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.27.1-7-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.27.1-7.7z</title>
+    <description></description>
+    <pubDate>Fri, 07 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.27.1-7.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.27.1-7.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.27.1-7.7z</title>
+    <description></description>
+    <pubDate>Fri, 07 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.27.1-7.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.27.1-7.7z</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.27.0-6-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.27.0-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.27.0-6-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.27.0-6-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.27.0-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.27.0-6-setup.exe</guid>
+  </item><item>
+    <title>vscode-portable-win32-1.27.0-6.7z</title>
+    <description></description>
+    <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win32-1.27.0-6.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win32-1.27.0-6.7z</guid>
+  </item><item>
+    <title>vscode-portable-win64-1.27.0-6.7z</title>
+    <description></description>
+    <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/vscode-portable-win64-1.27.0-6.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/vscode-portable-win64-1.27.0-6.7z</guid>
+  </item>
+  </channel>
+</rss>

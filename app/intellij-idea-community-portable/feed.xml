@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - IntelliJ IDEA Community portable releases</title>
+    <description></description>
+    <link>https://portapps.github.io/app/intellij-idea-community-portable/</link>
+    <atom:link href="https://portapps.github.io/app/intellij-idea-community-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>intellij-idea-community-portable-2018.3.1-18-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.3.1-18-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.3.1-18-setup.exe</guid>
+  </item><item>
+    <title>intellij-idea-community-portable-2018.3-17-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.3-17-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.3-17-setup.exe</guid>
+  </item><item>
+    <title>intellij-idea-community-portable-2018.2.6-16-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 20 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.2.6-16-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.2.6-16-setup.exe</guid>
+  </item><item>
+    <title>intellij-idea-community-portable-2018.2.5-15-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 17 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.2.5-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.2.5-15-setup.exe</guid>
+  </item><item>
+    <title>intellij-idea-community-portable-2018.2.4-14-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 19 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.2.4-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.2.4-14-setup.exe</guid>
+  </item><item>
+    <title>intellij-idea-community-portable-2018.2.3-13-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.2.3-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.2.3-13-setup.exe</guid>
+  </item><item>
+    <title>intellij-idea-community-portable-2018.2.2-12-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Aug 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.2.2-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.2.2-12-setup.exe</guid>
+  </item><item>
+    <title>intellij-idea-community-portable-2018.2.1-11-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.2.1-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.2.1-11-setup.exe</guid>
+  </item><item>
+    <title>intellij-idea-community-portable-2018.2-10-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 25 Jul 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.2-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.2-10-setup.exe</guid>
+  </item><item>
+    <title>intellij-idea-community-portable-2018.1.6-9-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 13 Jul 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/intellij-idea-community-portable-2018.1.6-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/intellij-idea-community-portable-2018.1.6-9-setup.exe</guid>
+  </item>
+  </channel>
+</rss>

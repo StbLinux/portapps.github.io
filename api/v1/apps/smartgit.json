@@ -1,0 +1,83 @@
+{
+  "name": "smartgit",
+  "label": "SmartGit",
+  "desc": "a graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.",
+  "license": "freeware",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "smartgit-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.syntevo.com/smartgit/",
+  "move": [
+    {
+      "from": "%APPDATA%\\syntevo\\SmartGit\\<major-smartgit-version>\\*",
+      "to": "data\\.settings"
+    },
+    {
+      "from": "%APPDATA%\\syntevo\\SmartGit\\smartgit.vmoptions",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "18.2.3",
+      "release": "6",
+      "date": "2018/12/21",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.2",
+      "release": "5",
+      "date": "2018/12/17",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.1",
+      "release": "4",
+      "date": "2018/12/06",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.0",
+      "release": "3",
+      "date": "2018/12/04",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.2.0",
+      "release": "2",
+      "date": "2018/12/01",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.1.5",
+      "release": "1",
+      "date": "2018/11/24",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

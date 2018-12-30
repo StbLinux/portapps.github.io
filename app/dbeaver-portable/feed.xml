@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - DBeaver portable releases</title>
+    <description></description>
+    <link>https://portapps.github.io/app/dbeaver-portable/</link>
+    <atom:link href="https://portapps.github.io/app/dbeaver-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>dbeaver-portable-win32-5.3.1-6-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.3.1-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.3.1-6-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.3.1-6-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.3.1-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.3.1-6-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.3.1-6.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.3.1-6.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.3.1-6.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.3.1-6.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.3.1-6.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.3.1-6.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.3.0-5-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 11 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.3.0-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.3.0-5-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.3.0-5-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 11 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.3.0-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.3.0-5-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.3.0-5.7z</title>
+    <description></description>
+    <pubDate>Tue, 11 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.3.0-5.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.3.0-5.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.3.0-5.7z</title>
+    <description></description>
+    <pubDate>Tue, 11 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.3.0-5.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.3.0-5.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.2.5-4-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.2.5-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.2.5-4-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.2.5-4-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.2.5-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.2.5-4-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.2.5-4.7z</title>
+    <description></description>
+    <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.2.5-4.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.2.5-4.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.2.5-4.7z</title>
+    <description></description>
+    <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.2.5-4.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.2.5-4.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.2.5-3-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.2.5-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.2.5-3-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.2.5-3-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.2.5-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.2.5-3-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.2.5-3.7z</title>
+    <description></description>
+    <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.2.5-3.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.2.5-3.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.2.5-3.7z</title>
+    <description></description>
+    <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.2.5-3.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.2.5-3.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.2.4-2-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.2.4-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.2.4-2-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.2.4-2-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.2.4-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.2.4-2-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.2.4-2.7z</title>
+    <description></description>
+    <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.2.4-2.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.2.4-2.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.2.4-2.7z</title>
+    <description></description>
+    <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.2.4-2.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.2.4-2.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.2.1-1-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 30 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.2.1-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.2.1-1-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.2.1-1-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 30 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.2.1-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.2.1-1-setup.exe</guid>
+  </item><item>
+    <title>dbeaver-portable-win32-5.2.1-1.7z</title>
+    <description></description>
+    <pubDate>Sun, 30 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win32-5.2.1-1.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win32-5.2.1-1.7z</guid>
+  </item><item>
+    <title>dbeaver-portable-win64-5.2.1-1.7z</title>
+    <description></description>
+    <pubDate>Sun, 30 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.github.io/download/dbeaver-portable-win64-5.2.1-1.7z</link>
+    <guid isPermaLink="true">https://portapps.github.io/download/dbeaver-portable-win64-5.2.1-1.7z</guid>
+  </item>
+  </channel>
+</rss>

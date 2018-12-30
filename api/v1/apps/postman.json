@@ -1,0 +1,133 @@
+{
+  "name": "postman",
+  "label": "Postman",
+  "desc": "a complete toolchain for API developers.",
+  "license": "apache-2.0",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "postman-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.getpostman.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\Postman\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "6.6.1",
+      "release": "12",
+      "date": "2018/12/11",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.5.3",
+      "release": "11",
+      "date": "2018/11/28",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.5.2",
+      "release": "10",
+      "date": "2018/11/09",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.4.4",
+      "release": "9",
+      "date": "2018/10/26",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.3.0",
+      "release": "8",
+      "date": "2018/09/26",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.2.4",
+      "release": "7",
+      "date": "2018/08/11",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.2.3",
+      "release": "6",
+      "date": "2018/08/03",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.1.4",
+      "release": "5",
+      "date": "2018/07/05",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.1.3",
+      "release": "4",
+      "date": "2018/05/26",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.1.2",
+      "release": "3",
+      "date": "2018/05/23",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.10",
+      "release": "2",
+      "date": "2018/04/20",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.9",
+      "release": "1",
+      "date": "2018/03/07",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
